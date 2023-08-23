@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello there! What can I help?"
+    },
+    {
+      "question": "How are you",
+      "answer": "I am fine thankyou. How about you?"
+    },
+    {
+      "question": "what is 1+1",
+      "answer": "2"
+    },
+    {
+      "question": "1+1?",
+      "answer": "2"
+    },
+    {
+      "question": "5+5",
+      "answer": "10"
+    }
+  ]
+}
